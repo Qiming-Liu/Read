@@ -13,26 +13,20 @@
 简化部署  
 
 ### 结构计划  
-1.客户端([Android](https://developer.android.google.cn/))  
->IDE Android Studio 4.1.1   
-JDK OpenJDK14-JDK  
-Language [Kotlin](https://www.kotlincn.net/)  
-Gradle 4.1.1  
-minSdkVersion 23  
-targetSdkVersion 30  
 
-2.客户端([Cordova](http://cordova.axuer.com/))  
+1.客户端([Cordova](http://cordova.axuer.com/))  
 >IDE [Intellij Idea](https://www.jetbrains.com/idea/)  
+UI [Material-UI](https://material-ui.com/zh/getting-started/usage/)  
 UI [React](https://react.docschina.org/)  
 
-3.服务端([Node.js](http://nodejs.cn/))  
+2.服务端([Node.js](http://nodejs.cn/))  
 >IDE [Intellij Idea](https://www.jetbrains.com/idea/)  
-NetConnection [Socket.io](http://www.shuaihuajun.com/article/1504749640971/) 3.0.1  
+NetConnection [Socket.io](http://www.shuaihuajun.com/article/1504749640971/) 3.0.1 & http  
 
-4.数据库([MongoDB](https://www.runoob.com/mongodb/mongodb-tutorial.html))  
->服务器支持无数据库  
+3.数据库([MongoDB](https://www.runoob.com/mongodb/mongodb-tutorial.html))  
+>服务器支持无数据库 & MySQL  
 
 ### 联系方式  
 欢迎加群, 成为已阅2的开发者和贡献者  
 qq群 [955760605](https://qm.qq.com/cgi-bin/qm/qr?k=mX_hztIyLuHRwao88xKscsAihTT-v72U&jump_from=webapi)  
-![二维码](https://github.com/Qiming-Liu/Read/raw/master/Res/qqqun.png "qq群")  
+![二维码](https://github.com/Qiming-Liu/Read/raw/master/Resources/qqqun.png "qq群")  
