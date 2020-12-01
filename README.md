@@ -29,4 +29,4 @@ NetConnection [Socket.io](http://www.shuaihuajun.com/article/1504749640971/) 3.0
 ### 联系方式  
 欢迎加群, 成为已阅2的开发者和贡献者  
 qq群 [955760605](https://qm.qq.com/cgi-bin/qm/qr?k=mX_hztIyLuHRwao88xKscsAihTT-v72U&jump_from=webapi)  
-![二维码](https://github.com/Qiming-Liu/Read/raw/master/Resources/qqqun.png "qq群")  
+![二维码](https://github.com/Qiming-Liu/Read/raw/master/Resources/qqqun.jpg)  
