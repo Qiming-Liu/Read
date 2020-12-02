@@ -1,26 +1,23 @@
 {
+  "name": "read",
+  "version": "2.0.0",
   "private": true,
-  "scripts": {
-    "start": "roadhog server",
-    "build": "roadhog build",
-    "lint": "eslint --ext .js src test",
-    "precommit": "npm run lint"
-  },
   "dependencies": {
-    "dva": "^2.4.1",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "antd-mobile": "^2.0.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "babel-plugin-dva-hmr": "^0.3.2",
-    "eslint": "^4.14.0",
-    "eslint-config-umi": "^0.1.1",
-    "eslint-plugin-flowtype": "^2.34.1",
-    "eslint-plugin-import": "^2.6.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.1.0",
-    "husky": "^0.12.0",
-    "redbox-react": "^1.4.3",
-    "roadhog": "^2.5.0-beta.4"
+    "babel-plugin-import": "^1.2.0",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "react-app-rewired": "^1.2.9"
   }
 }

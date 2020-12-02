@@ -1,0 +1,20 @@
+#read {
+    margin-top: 15vh;
+}
+
+.read {
+    margin-top: 10vh;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    width: 100%;
+    font-size: 5vh;
+}
+
+.startImg {
+    position:absolute;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 4vh;
+    width: 98vw;
+}

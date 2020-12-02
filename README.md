@@ -15,8 +15,7 @@
 ### 结构计划  
 
 1.客户端([Cordova](http://cordova.axuer.com/))  
->IDE [Intellij Idea](https://www.jetbrains.com/idea/)  
-UI [Material-UI](https://material-ui.com/zh/getting-started/usage/)  
+>IDE [Intellij Idea](https://www.jetbrains.com/idea/)   
 UI [React](https://react.docschina.org/)  
 
 2.服务端([Node.js](http://nodejs.cn/))  
